@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunledecastro
 - 👀 I’m interested in product management and product design
-- 🌱 I’m currently learning Scrum, Google project management and Producrt design.
+- 🌱 I’m currently learning Scrum, Google project management and Product design.
 - 💞️ I’m looking to collaborate on a Saas product
 - 📫 How to reach me adekunle.oludele@gmail.com
 
